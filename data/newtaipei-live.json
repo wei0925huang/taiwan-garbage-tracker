@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
+    "dataType": "LIVE_GPS",
+    "fetchedAt": "",
+    "count": 0,
+    "error": "尚未執行 GitHub Actions 同步"
+  },
+  "records": []
+}

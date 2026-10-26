@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "sourceUrl": "https://newdatacenter.taichung.gov.tw/api/v1/no-auth/resource.download?rid=c923ad20-2ec6-43b9-b3ab-54527e99f7bc",
+    "dataType": "DYNAMIC_DATA",
+    "fetchedAt": "",
+    "count": 0,
+    "error": "尚未執行 GitHub Actions 同步"
+  },
+  "records": []
+}
