@@ -45,6 +45,7 @@ def write(name,url,fmt,kind):
   items=list(csv.DictReader(io.StringIO(text(b)))) if fmt=='csv' else parse_json(json.loads(text(b)))
   records=[normalize(x,kind) for x in items if isinstance(x,dict)]
   records=[x for x in records if x['latitude'] is not None and x['longitude'] is not None]
+  if not records:raise ValueError('來源回傳 0 筆有效座標，保留上一批有效資料')
   payload={'meta':{'sourceUrl':url,'dataType':kind,'fetchedAt':datetime.now(timezone.utc).isoformat(),'count':len(records),'error':''},'records':records}
   old.write_text(json.dumps(payload,ensure_ascii=False,indent=2),'utf-8');print(name,len(records))
  except Exception as e:
