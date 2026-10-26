@@ -1,15 +1,13 @@
-# 三市垃圾車資訊整合 V0.2.0
+# 三市垃圾車資訊整合 V0.2.1
 
-## 真實資料
-- 新北市：官方即時 GPS，每 2 分鐘更新；GitHub 排程每 10 分鐘同步一次。
-- 臺中市：官方動態車輛，官方更新頻率約 10 分鐘。
-- 臺北市：官方清運點位、路線與表定時間，不是即時 GPS。
+## 本版功能
+- 預設三市整合顯示，並可全選或取消各城市資料。
+- 預設顯示動態車輛。
+- 新北官方即時 GPS、臺中官方動態車輛、臺北官方表定點位。
+- 地標保存在目前裝置的瀏覽器 localStorage，不會同步到雲端。
+- 地標可新增、修改、啟用、停用、刪除，並設定時段、半徑及提示音。
+- 新北與臺中動態車輛進入地標半徑時播放提示音；臺北表定點位不觸發。
+- 電腦版地圖與資料清單等高，清單在面板內捲動；手機版保持地圖在上、清單在下。
 
-## 啟用
-1. 全部檔案上傳到 GitHub Repository 根目錄。
-2. Settings > Actions > General，Workflow permissions 選 Read and write permissions。
-3. Actions > Sync official garbage data > Run workflow，先手動執行一次。
-4. Settings > Pages，選 Deploy from a branch、main、/(root)。
-5. 等待 Pages 網址產生。
-
-資料同步失敗時不會用假資料替代，會保留上次成功檔並在畫面顯示錯誤或過期。
+## 更新 GitHub
+解壓縮後，將檔案複製到 GitHub Desktop 的本機 Repository，覆蓋舊檔，再 Commit 與 Push origin。
