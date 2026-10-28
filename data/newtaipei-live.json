@@ -2,21 +2,21 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-10-28T10:03:23.412552+00:00",
+    "fetchedAt": "2026-10-28T16:35:13.983279+00:00",
     "count": 1,
     "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "234052",
+      "lineid": "224011",
       "lineName": "",
-      "car": "KEA-2590",
-      "time": "2026/10/28 14:22:04",
-      "location": "新北市新店區安興路31-1號",
-      "longitude": 121.51571,
-      "latitude": 24.9700883333333,
-      "cityname": "永和區",
+      "car": "BWM-8121",
+      "time": "2026/10/28 20:33:21",
+      "location": "新北市瑞芳區明燈路二段67號",
+      "longitude": 121.810545,
+      "latitude": 25.108105,
+      "cityname": "瑞芳區",
       "speed": null,
       "arrival": ""
     }
