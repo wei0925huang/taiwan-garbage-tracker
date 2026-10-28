@@ -2,21 +2,21 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-10-28T03:47:11.090988+00:00",
+    "fetchedAt": "2026-10-28T10:03:23.412552+00:00",
     "count": 1,
     "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "251014",
+      "lineid": "234052",
       "lineName": "",
-      "car": "KEU-3217",
-      "time": "2026/10/27 22:58:06",
-      "location": "新北市淡水區中正路二段18號",
-      "longitude": 121.41971,
-      "latitude": 25.1811533333333,
-      "cityname": "淡水區",
+      "car": "KEA-2590",
+      "time": "2026/10/28 14:22:04",
+      "location": "新北市新店區安興路31-1號",
+      "longitude": 121.51571,
+      "latitude": 24.9700883333333,
+      "cityname": "永和區",
       "speed": null,
       "arrival": ""
     }
