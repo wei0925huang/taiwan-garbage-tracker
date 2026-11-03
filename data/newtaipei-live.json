@@ -2,21 +2,34 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-02T21:56:58.472951+00:00",
-    "count": 1,
+    "fetchedAt": "2026-11-03T03:20:31.289848+00:00",
+    "count": 2,
     "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "251003",
+      "lineid": "234001",
       "lineName": "",
-      "car": "KEU-3217",
-      "time": "2026/11/02 22:59:04",
-      "location": "新北市淡水區中正路二段18號",
-      "longitude": 121.419711666667,
-      "latitude": 25.1811316666667,
-      "cityname": "淡水區",
+      "car": "KEU-6110",
+      "time": "2026/11/03 11:19:39",
+      "location": "新北市永和區福和路1號",
+      "longitude": 121.526405,
+      "latitude": 25.0099783333333,
+      "cityname": "永和區",
+      "speed": null,
+      "arrival": ""
+    },
+    {
+      "dataType": "LIVE_GPS",
+      "lineid": "227004",
+      "lineName": "",
+      "car": "KEU-5212",
+      "time": "2026/11/03 11:19:31",
+      "location": "新北市雙溪區魚行里八股5號",
+      "longitude": 121.882775,
+      "latitude": 25.0211133333333,
+      "cityname": "雙溪區",
       "speed": null,
       "arrival": ""
     }
