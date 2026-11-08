@@ -2,21 +2,21 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-08T07:27:55.646631+00:00",
+    "fetchedAt": "2026-11-08T14:27:24.669075+00:00",
     "count": 1,
     "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "235001",
+      "lineid": "236012",
       "lineName": "",
-      "car": "647-TV",
-      "time": "2026/11/08 14:54:00",
-      "location": "新北市中和區華新街2-6號",
-      "longitude": 121.507471666667,
-      "latitude": 24.985225,
-      "cityname": "中和區",
+      "car": "043-R5",
+      "time": "2026/11/08 22:14:12",
+      "location": "新北市土城區永平街50-1號",
+      "longitude": 121.426868333333,
+      "latitude": 24.9590916666667,
+      "cityname": "土城區",
       "speed": null,
       "arrival": ""
     }
