@@ -2,21 +2,21 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-11T10:14:37.942874+00:00",
+    "fetchedAt": "2026-11-11T17:55:35.742476+00:00",
     "count": 1,
     "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "222001",
+      "lineid": "224011",
       "lineName": "",
-      "car": "KEG-2070",
-      "time": "2026/11/11 16:52:56",
-      "location": "新北市深坑區深坑街75號",
-      "longitude": 121.614718333333,
-      "latitude": 25.00137,
-      "cityname": "深坑區",
+      "car": "BWM-8121",
+      "time": "2026/11/11 20:39:15",
+      "location": "新北市瑞芳區逢甲路17號",
+      "longitude": 121.809508333333,
+      "latitude": 25.1084833333333,
+      "cityname": "瑞芳區",
       "speed": null,
       "arrival": ""
     }
