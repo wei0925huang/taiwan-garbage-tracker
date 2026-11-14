@@ -4,7 +4,8 @@
     "dataType": "LIVE_GPS",
     "fetchedAt": "2026-11-14T02:53:14.486666+00:00",
     "count": 2,
-    "error": ""
+    "error": "ValueError: 來源回傳 0 筆有效座標，保留上一批有效資料",
+    "lastAttemptAt": "2026-11-14T09:46:21.053539+00:00"
   },
   "records": [
     {
