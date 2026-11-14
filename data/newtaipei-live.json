@@ -2,35 +2,21 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-14T02:53:14.486666+00:00",
-    "count": 2,
-    "error": "ValueError: 來源回傳 0 筆有效座標，保留上一批有效資料",
-    "lastAttemptAt": "2026-11-14T09:46:21.053539+00:00"
+    "fetchedAt": "2026-11-14T16:09:52.893846+00:00",
+    "count": 1,
+    "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "231007",
+      "lineid": "241011",
       "lineName": "",
-      "car": "KEU-3225",
-      "time": "2026/11/14 10:52:15",
-      "location": "新北市新店區安康路二段320巷15弄2號",
-      "longitude": 121.504055,
-      "latitude": 24.9597016666667,
-      "cityname": "新店區",
-      "speed": null,
-      "arrival": ""
-    },
-    {
-      "dataType": "LIVE_GPS",
-      "lineid": "227004",
-      "lineName": "",
-      "car": "KEU-5212",
-      "time": "2026/11/14 10:52:15",
-      "location": "新北市雙溪區魚行里坤溪11號",
-      "longitude": 121.873341666667,
-      "latitude": 25.0225516666667,
-      "cityname": "雙溪區",
+      "car": "743-BX",
+      "time": "2026/11/14 23:01:02",
+      "location": "新北市三重區重新路四段121號",
+      "longitude": 121.485006666667,
+      "latitude": 25.051955,
+      "cityname": "三重區",
       "speed": null,
       "arrival": ""
     }
