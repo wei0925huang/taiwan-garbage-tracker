@@ -2,21 +2,21 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-15T00:23:17.015982+00:00",
+    "fetchedAt": "2026-11-15T06:56:36.695430+00:00",
     "count": 1,
     "error": ""
   },
   "records": [
     {
       "dataType": "LIVE_GPS",
-      "lineid": "241011",
+      "lineid": "220102",
       "lineName": "",
-      "car": "743-BX",
-      "time": "2026/11/14 23:01:02",
-      "location": "新北市三重區重新路四段121號",
-      "longitude": 121.485006666667,
-      "latitude": 25.051955,
-      "cityname": "三重區",
+      "car": "831-TW",
+      "time": "2026/11/15 14:55:55",
+      "location": "新北市板橋區民生路二段56-6號",
+      "longitude": 121.471033333333,
+      "latitude": 25.0189433333333,
+      "cityname": "板橋區",
       "speed": null,
       "arrival": ""
     }
