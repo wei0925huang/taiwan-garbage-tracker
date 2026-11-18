@@ -2,7 +2,7 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-18T11:31:02.616384+00:00",
+    "fetchedAt": "2026-11-18T19:33:29.206316+00:00",
     "count": 1,
     "error": ""
   },
@@ -12,10 +12,10 @@
       "lineid": "224011",
       "lineName": "",
       "car": "BWM-8121",
-      "time": "2026/11/18 19:30:13",
-      "location": "新北市瑞芳區烏勢巷147號",
-      "longitude": 121.846878333333,
-      "latitude": 25.1077366666667,
+      "time": "2026/11/18 20:32:53",
+      "location": "新北市瑞芳區民權街3-1號",
+      "longitude": 121.809335,
+      "latitude": 25.1082633333333,
       "cityname": "瑞芳區",
       "speed": null,
       "arrival": ""
