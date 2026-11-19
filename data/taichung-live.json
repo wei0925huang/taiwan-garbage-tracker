@@ -4,7 +4,8 @@
     "dataType": "DYNAMIC_DATA",
     "fetchedAt": "2026-11-19T01:27:27.961230+00:00",
     "count": 663,
-    "error": ""
+    "error": "HTTPError: HTTP Error 500: Internal Server Error",
+    "lastAttemptAt": "2026-11-19T09:14:11.098302+00:00"
   },
   "records": [
     {
