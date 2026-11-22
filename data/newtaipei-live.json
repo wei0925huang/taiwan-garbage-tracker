@@ -2,7 +2,7 @@
   "meta": {
     "sourceUrl": "https://data.ntpc.gov.tw/api/datasets/28ab4122-60e1-4065-98e5-abccb69aaca6/csv/file",
     "dataType": "LIVE_GPS",
-    "fetchedAt": "2026-11-22T11:47:43.049901+00:00",
+    "fetchedAt": "2026-11-22T18:41:09.123158+00:00",
     "count": 1,
     "error": ""
   },
@@ -12,10 +12,10 @@
       "lineid": "224011",
       "lineName": "",
       "car": "BWM-8121",
-      "time": "2026/11/22 19:46:50",
-      "location": "新北市瑞芳區基山街115號",
-      "longitude": 121.844325,
-      "latitude": 25.10857,
+      "time": "2026/11/22 20:57:10",
+      "location": "新北市瑞芳區民權街3-1號",
+      "longitude": 121.809266666667,
+      "latitude": 25.1082833333333,
       "cityname": "瑞芳區",
       "speed": null,
       "arrival": ""
